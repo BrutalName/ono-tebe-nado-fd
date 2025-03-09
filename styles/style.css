@@ -63,7 +63,7 @@ p {
 .header__links-list {
     display: inline-flex;
     list-style-type: circle;
-    gap: 29px;
+    gap: 28px;
     font-size: 18px;
 }
 
@@ -100,7 +100,7 @@ p {
     display: grid;
     margin-bottom: 106px;
     letter-spacing: 30px;
-    gap: 10px;
+    gap: 18px;
     place-content: space-between;
     grid-template-areas:
         'aligned-text aligned-text aligned-text'
