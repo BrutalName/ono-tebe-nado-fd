@@ -100,7 +100,7 @@ p {
     display: grid;
     margin-bottom: 106px;
     letter-spacing: 30px;
-    gap: 19px;
+    gap: 10px;
     place-content: space-between;
     grid-template-areas:
         'aligned-text aligned-text aligned-text'
