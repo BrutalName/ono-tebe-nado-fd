@@ -120,6 +120,9 @@ p {
 .aligned-text_right {
     grid-area: aligned-text_right;
     justify-self: end;
+}
+
+.no-letter-spacing {
     letter-spacing: 0;
 }
 
@@ -152,7 +155,7 @@ p {
     min-height: 723px;
     display: flex;
     flex-direction: column;
-    margin: 180px 24px 60px 24px;
+    margin: 180px 24px 120px 24px;
     scroll-behavior: smooth;
 }
 
@@ -222,12 +225,17 @@ p {
     margin-left: 40px;
 }
 
+.lots__look-more-link__text {
+    color: #000000;
+}
+
 /*Стили about*/
 
 .about {
-    margin: 60px 24px 180px 24px;
+    margin: 120px 24px 180px 24px;
     display: grid;
-    grid-template-columns: 334px 1fr;
+    grid-template-columns: 1fr 25px 2fr;
+
 }
 
 .about__logo {
@@ -256,7 +264,7 @@ p {
 }
 
 .about__column {
-    grid-column: 2;
+    grid-column: 3;
 }
 
 .about__title {
