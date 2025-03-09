@@ -73,6 +73,7 @@ p {
  
 .header__logo {
     justify-self: center;
+    height: 105px;
     width: 148px;
 }
 
@@ -133,7 +134,7 @@ p {
 }
 
 .cover__description-text {
-    word-spacing: 24px;
+    word-spacing: 19px;
     font-weight: 400;
     font-size: 22px;
 }
