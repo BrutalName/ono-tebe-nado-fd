@@ -5,7 +5,6 @@ html {
 h1, h2, h3 {
     text-transform: uppercase;
     color: rgb(255, 255, 255);
-    font-family: Raleway;
     overflow-wrap: break-word;
     font-weight: 700;
 }
@@ -23,7 +22,6 @@ h3 {
 }
 
 p {
-    font-family: Raleway;
     overflow-wrap: break-word;
     font-weight: 400;
     font-size: 20px;
@@ -46,7 +44,6 @@ p {
 .address {
     font-style: normal;
     overflow-wrap: break-word;
-    font-family: Raleway;
     font-size: 18px;
 }
 
