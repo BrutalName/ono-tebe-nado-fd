@@ -95,7 +95,7 @@ p {
     padding: 165px 50px 50px 50px;
 }
 
-.cover__title{
+.cover__title {
     display: grid;
     margin-bottom: 106px;
     height: 385px;
@@ -124,8 +124,8 @@ p {
 }
 
 .cover__description {
-    display: flex;   
-    justify-content: space-between; 
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -176,7 +176,7 @@ p {
     flex-grow: 1;
 }
 
-.card-link{
+.card-link {
     color: #ffffff;
     height: 100%;
     text-decoration: none;
@@ -230,7 +230,7 @@ p {
     grid-template-columns: 334px 1fr;
 }
 
-.about__logo{
+.about__logo {
     margin-top: 35px;
     grid-column: 1;
     display: flex;
